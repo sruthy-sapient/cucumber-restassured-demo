@@ -1,0 +1,6 @@
+{
+  "client_id": "XpU6RDqbovJ0VPNzxb19LtN3BkYkl3AG",
+  "client_secret": "Yp7bbzkOb_13NVh6ZgScFgjscS4ch3qb4w8ktdFCrPKv5sHy8-rsdtHBoQ4nONEH",
+  "audience": "https://qa-sruthy.auth0.com/api/v2/",
+  "grant_type": "client_credentials"
+}

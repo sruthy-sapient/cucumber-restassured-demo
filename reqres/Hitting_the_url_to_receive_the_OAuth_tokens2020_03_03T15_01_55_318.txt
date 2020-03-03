@@ -1,0 +1,38 @@
+Request method:	POST
+Request URI:	https://qa-sruthy.auth0.com/oauth/token
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+src\main\resources\reqBody\AuthO.json
+HTTP/1.1 200 OK
+Date: Tue, 03 Mar 2020 09:31:57 GMT
+Content-Type: application/json
+Content-Length: 835
+Connection: keep-alive
+Server: nginx
+ot-tracer-spanid: 1a163ffd70ef6a8b
+ot-tracer-traceid: 2824fe306e155615
+ot-tracer-sampled: true
+X-Auth0-RequestId: 3c726a586bdddf6e0e75
+Set-Cookie: did=s%3Av0%3Ad3c51271-5d31-11ea-b352-fdf4c2c143f6.SC4ixn9olc%2Fgd%2FO5AL%2Bt4qL1ryOlu3hJ0zWnSp7T%2Bbk; Max-Age=157788000; Path=/; Expires=Mon, 03 Mar 2025 15:31:57 GMT; HttpOnly; Secure; SameSite=None
+Set-Cookie: did_compat=s%3Av0%3Ad3c51271-5d31-11ea-b352-fdf4c2c143f6.SC4ixn9olc%2Fgd%2FO5AL%2Bt4qL1ryOlu3hJ0zWnSp7T%2Bbk; Max-Age=157788000; Path=/; Expires=Mon, 03 Mar 2025 15:31:57 GMT; HttpOnly; Secure
+X-RateLimit-Limit: 30
+X-RateLimit-Remaining: 29
+X-RateLimit-Reset: 1583227918
+Cache-Control: no-store
+Pragma: no-cache
+Strict-Transport-Security: max-age=15724800
+X-Robots-Tag: noindex, nofollow, nosnippet, noarchive
+
+{
+    "access_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJEVkdRekpCT1RORVJERTNNVU14T0VKQk4wVkRPVEU0UkVGRE9FUkVNVGhEUkVVME1FRTNSQSJ9.eyJpc3MiOiJodHRwczovL3FhLXNydXRoeS5hdXRoMC5jb20vIiwic3ViIjoiWHBVNlJEcWJvdkowVlBOenhiMTlMdE4zQmtZa2wzQUdAY2xpZW50cyIsImF1ZCI6Imh0dHBzOi8vcWEtc3J1dGh5LmF1dGgwLmNvbS9hcGkvdjIvIiwiaWF0IjoxNTgzMjI3OTE3LCJleHAiOjE1ODMzMTQzMTcsImF6cCI6IlhwVTZSRHFib3ZKMFZQTnp4YjE5THROM0JrWWtsM0FHIiwiZ3R5IjoiY2xpZW50LWNyZWRlbnRpYWxzIn0.Yh7g7hKQhbftQSssqBuKiT8pHkEOK2nvZLRFQf9AIX-zNIXYHiRa9Vmxn7YSfHmK3pdKQ2oHMI8SZakIYVUxC1IuJ_oS-SELALm6XGeZnJIKPsikoQs3tBdFhBAuesJgY8rZekOX_30sKc7wpCMY2H0H_1MGRHLErAPhO9SGGhB-lwvI3K8FwTbfuK9kWWR6rWboAj75MunVs9mrZSEQ-HcQG_R6YOIwnjtlzJH8ftFBp0TrXHWzXweg2dZn9xKnMezuf8MJ_dg32z3LEUFDrfx-6eiqQ3nsFh3As2K7O5sScH5Du6hJO0r_NHOQ5NBXpANKxkw6kRL4fCieYw9oSw",
+    "expires_in": 86400,
+    "token_type": "Bearer"
+}

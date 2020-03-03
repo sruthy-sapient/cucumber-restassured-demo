@@ -1,0 +1,101 @@
+2020-02-19 16:14:20,270 INFO  [Log] Validate Employee List is returned 
+2020-02-19 16:14:20,432 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:14:22,648 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:14:23,589 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:14:24,584 INFO  [Log] Search places by text string with json response 
+2020-02-19 16:14:25,373 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:14:25,584 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:15:07,685 INFO  [Log] Validate Employee List is returned 
+2020-02-19 16:15:10,104 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:15:10,447 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:15:10,479 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:15:10,513 INFO  [Log] Search places by text string with json response 
+2020-02-19 16:15:10,593 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:15:10,630 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:15:22,164 INFO  [Log] Validate Employee List is returned 
+2020-02-19 16:15:22,326 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:15:24,221 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:15:25,120 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:15:26,040 INFO  [Log] Search places by text string with json response 
+2020-02-19 16:15:26,797 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:15:27,019 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:15:59,245 INFO  [Log] Validate Employee List is returned 
+2020-02-19 16:16:01,112 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:16:02,301 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:16:03,247 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:16:04,149 INFO  [Log] Search places by text string with json response 
+2020-02-19 16:16:04,517 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:16:04,820 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:21:07,750 INFO  [Log] Validate Employee List is returned 
+2020-02-19 16:21:07,901 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:21:10,136 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:21:11,066 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:21:11,981 INFO  [Log] Search places by text string with json response 
+2020-02-19 16:21:12,786 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:21:12,972 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:22:14,859 INFO  [Log] Validate Employee List is returned 
+2020-02-19 16:22:15,019 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:22:16,905 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:22:17,793 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:22:18,819 INFO  [Log] Search places by text string with json response 
+2020-02-19 16:22:19,579 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:22:19,766 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:25:56,802 INFO  [Log] Validate Employee List is returned 
+2020-02-19 16:25:56,953 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:25:57,289 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:25:57,319 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:25:57,351 INFO  [Log] Search places by text string with json response 
+2020-02-19 16:25:57,414 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:25:57,451 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:26:36,596 INFO  [Log] Validate Employee List is returned 
+2020-02-19 16:26:38,959 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:26:40,074 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:26:40,987 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-19 16:26:41,914 INFO  [Log] Search places by text string with json response 
+2020-02-19 16:26:42,300 INFO  [Log] Search places by text string with xml response 
+2020-02-19 16:26:42,514 INFO  [Log] Search places by text string with xml response 
+2020-02-20 11:25:27,886 INFO  [Log] Validate Employee List is returned 
+2020-02-20 11:25:31,070 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-20 11:25:32,143 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-20 11:25:33,070 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-02-20 11:25:33,972 INFO  [Log] Search places by text string with json response 
+2020-02-20 11:25:34,674 INFO  [Log] Search places by text string with xml response 
+2020-02-20 11:25:34,922 INFO  [Log] Search places by text string with xml response 
+2020-03-03 14:50:18,899 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 14:51:21,064 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 14:52:08,092 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 14:57:05,056 INFO  [Log] Validate Employee List is returned 
+2020-03-03 14:57:05,861 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 14:57:05,892 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 14:57:05,920 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 14:57:05,940 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 14:57:05,982 INFO  [Log] Search places by text string with json response 
+2020-03-03 14:57:06,032 INFO  [Log] Search places by text string with xml response 
+2020-03-03 14:57:06,062 INFO  [Log] Search places by text string with xml response 
+2020-03-03 14:57:52,779 INFO  [Log] Validate Employee List is returned 
+2020-03-03 14:57:54,859 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 14:57:56,111 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 14:57:57,028 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 14:57:57,913 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 14:58:00,254 INFO  [Log] Search places by text string with json response 
+2020-03-03 14:58:00,585 INFO  [Log] Search places by text string with xml response 
+2020-03-03 14:58:00,855 INFO  [Log] Search places by text string with xml response 
+2020-03-03 14:58:59,044 INFO  [Log] Validate Employee List is returned 
+2020-03-03 14:59:01,221 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 14:59:02,574 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 14:59:03,473 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 14:59:04,361 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 14:59:05,926 INFO  [Log] Search places by text string with json response 
+2020-03-03 14:59:06,168 INFO  [Log] Search places by text string with xml response 
+2020-03-03 14:59:06,351 INFO  [Log] Search places by text string with xml response 
+2020-03-03 15:00:45,899 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 15:01:01,813 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 15:01:54,947 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 15:06:35,252 INFO  [Log] Validate Employee List is returned 
+2020-03-03 15:06:37,721 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 15:06:38,868 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 15:06:39,752 INFO  [Log] Validate appropriate error code is returned when user hits the request with POST/PUT/DELETE 
+2020-03-03 15:06:40,633 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 15:06:42,152 INFO  [Log] Search places by text string with json response 
+2020-03-03 15:06:42,384 INFO  [Log] Search places by text string with xml response 
+2020-03-03 15:06:42,581 INFO  [Log] Search places by text string with xml response 

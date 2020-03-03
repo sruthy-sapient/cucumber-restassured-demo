@@ -1,0 +1,37 @@
+Request method:	GET
+Request URI:	https://maps.googleapis.com/maps/api/place/textsearch/json?key=AIzaSyD62QEvLiOotaLTjbaY461y7F0TMtL3FxM&query=Publicis%20Sapient
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=AIzaSyD62QEvLiOotaLTjbaY461y7F0TMtL3FxM
+				query=Publicis Sapient
+Form params:	<none>
+Path params:	output=json
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=UTF-8
+Date: Tue, 03 Mar 2020 09:36:42 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Vary: Accept-Language
+Content-Encoding: gzip
+Server: scaffolding on HTTPServer2
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Server-Timing: gfet4t7; dur=25
+Alt-Svc: quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000
+Transfer-Encoding: chunked
+
+{
+    "error_message": "This API project is not authorized to use this API.",
+    "html_attributions": [
+        
+    ],
+    "results": [
+        
+    ],
+    "status": "REQUEST_DENIED"
+}
