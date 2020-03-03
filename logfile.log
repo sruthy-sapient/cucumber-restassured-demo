@@ -99,3 +99,11 @@
 2020-03-03 15:06:42,152 INFO  [Log] Search places by text string with json response 
 2020-03-03 15:06:42,384 INFO  [Log] Search places by text string with xml response 
 2020-03-03 15:06:42,581 INFO  [Log] Search places by text string with xml response 
+2020-03-03 22:21:39,315 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 22:22:04,719 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 22:22:51,714 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 22:23:35,606 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 22:24:45,592 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 22:26:03,342 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 22:31:02,811 INFO  [Log] Hitting the url to receive the OAuth tokens 
+2020-03-03 22:31:31,583 INFO  [Log] Hitting the url to receive the OAuth tokens 

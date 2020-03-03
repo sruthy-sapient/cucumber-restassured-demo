@@ -30,6 +30,7 @@ public class FileUtils {
     }
 
     public static String fileName() {
+//        System.out.println("scenario name: " + scenarioName);
         String completeFileName = scenarioName.concat(getCurrentDateAndTime().toString())
                 .replaceAll("[^a-zA-Z0-9]", "_");
         return completeFileName;
@@ -41,5 +42,9 @@ public class FileUtils {
 
     public static File readingFromFile(String path) {
         return new File(path);
+    }
+
+    public static String fileAsString(String path) {
+        return readingFromFile(path).toString();
     }
 }

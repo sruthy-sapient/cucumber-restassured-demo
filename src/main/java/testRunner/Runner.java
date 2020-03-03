@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src\\test\\resources\\features",
         glue = {"stepDefinitions"},
-//        tags = {"@autho"},
+        tags = {"@autho"},
 //        plugin = { "com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"}
         plugin = {"pretty", "html:target/cucumber-reports"}
 )
